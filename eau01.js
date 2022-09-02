@@ -1,6 +1,3 @@
-let combinaison1 = 00;
-let combinaison2 = 01;
-let chiffre = 1;
 let stringNumbers = '';
 
 for (let i = 0; i < 10; i++) {
