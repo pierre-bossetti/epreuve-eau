@@ -15,5 +15,5 @@ function fibonacci(n) {
 if (inputNumber > 0) {
   console.log(fibonacci(inputNumber));
 } else {
-  console.log('erreur, saisir un chiffre svp.');
+  console.log(-1);
 }
